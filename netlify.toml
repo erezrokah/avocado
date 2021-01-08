@@ -1,0 +1,2 @@
+[[plugins]]
+  package = "./local_plugins/log_functions"
